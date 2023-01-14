@@ -161,7 +161,7 @@ def country_maps( df1 ):
 # Importar Para Cloud
 #============================================
 
-df = pd.read_csv( 'dataset\train.csv' )
+df = pd.read_csv( 'dataset/train.csv' )
 df1 = clean_code( df )
 
 #============================================
