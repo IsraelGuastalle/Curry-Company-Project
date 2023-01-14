@@ -193,7 +193,7 @@ def avg_time_on_traffic( df1 ):
 # Importar Para Cloud
 #============================================
 
-df = pd.read_csv( 'dataset\train.csv' )
+df = pd.read_csv( 'dataset/train.csv' )
 df1 = clean_code( df )
 
 #============================================
