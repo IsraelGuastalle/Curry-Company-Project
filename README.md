@@ -41,8 +41,6 @@ pessoas compradoras. Para acompanhar o crescimento desses negócios, o CEO gosta
 5. O tempo médio e o desvio padrão de entrega por cidade e tipo de tráfego.
 6. O tempo médio de entrega durantes os Festivais.
 
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
-
 # 2. Premissas assumidas para a Análise
 
 1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
