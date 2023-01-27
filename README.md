@@ -59,7 +59,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
 
 Cada visão é representada pelo seguinte conjunto de métricas:
 
-## 1. Visão do crescimento da empresa:
+## 3.1. Visão do crescimento da empresa:
   1. Pedidos por dia.
   2. Porcentagem de pedidos por condições de Trânsito.
   3. Quantidade de pedidos por tipo e por cidade.
@@ -67,7 +67,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
   5. Quantidade de pedidos por tipo de entrega.
   6. Quantidade de pedidos por condições de trânsito e tipo de cidade
 
-## 2. Visão do crescimento dos restaurantes:
+## 3.2. Visão do crescimento dos restaurantes:
   1. Quantidade de pedidos únicos.
   2. Distância média percorrida.
   3. Tempo médio de entrega durante festival e dias normais.
@@ -76,7 +76,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
   6. Distribuição do tempo médio de entrega por cidade.
   7. Tempo médio de entrega por tipo de pedido.
 
-## 3. Visão do crescimento dos entregadores:
+## 3.3. Visão do crescimento dos entregadores:
   1. Idade do entregador mais velho e do mais novo.
   2. Avaliação do melhor e do pior veículo.
   3. Avaliação média por entregador.
